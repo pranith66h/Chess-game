@@ -1,9 +1,6 @@
 # Chess Game ♟️
 
-A clean, interactive **Chess Game** built with **HTML5**, **CSS3**, and **Vanilla JavaScript** — no frameworks, no external libraries.
-
-Live Demo: [https://pranith66h.github.io/Chess-game/](https://pranith66h.github.io/Chess-game/)  
-*(If you haven't deployed it yet on GitHub Pages or Netlify, follow the instructions below to make it live.)*
+A clean, interactive **Chess Game** built with **HTML5**, **CSS3**, and **Vanilla JavaScript** — no frameworks, no external libraries
 
 ## Features
 - Classic 8×8 chessboard with proper coordinates (a–h files, 1–8 ranks)
@@ -23,7 +20,4 @@ Live Demo: [https://pranith66h.github.io/Chess-game/](https://pranith66h.github.
 - **CSS3** – Grid layout, coordinates, modern glassmorphism styling
 - **Vanilla JavaScript** – Game logic, move validation, turn management, DOM manipulation
 
-## How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/pranith66h/Chess-game.git
+   
